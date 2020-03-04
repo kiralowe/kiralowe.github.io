@@ -4,9 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Just like me, this site is a work in progress. Check back regularly for updates including more personal projects and coursework from my Master of Science in Social Data Analytics and Research at the University of Texas at Dallas.
 
